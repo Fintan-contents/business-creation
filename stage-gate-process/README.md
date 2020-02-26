@@ -224,9 +224,3 @@
 ## <a name="8-conclusion">8. まとめ</a>
 　当社がスタートアップ企業や事業会社とオープンイノベーションの枠組みで新規事業開発を行う際のプロセスについて紹介してきました。本文書が社会課題の解決に少しでも役立つことを願っています。  
 
-<span><style>
-  .figure-name{
-      display: inline-block;
-      text-align:center;
-  }
-</style></span>
